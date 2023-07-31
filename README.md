@@ -1,0 +1,2 @@
+# MacAdminPL
+My personal blog
